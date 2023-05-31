@@ -1,2 +1,0 @@
-# example-reposity
-ejemplo
